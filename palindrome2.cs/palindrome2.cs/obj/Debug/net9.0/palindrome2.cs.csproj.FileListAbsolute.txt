@@ -1,0 +1,14 @@
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\bin\Debug\net9.0\palindrome2.cs.exe
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\bin\Debug\net9.0\palindrome2.cs.deps.json
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\bin\Debug\net9.0\palindrome2.cs.runtimeconfig.json
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\bin\Debug\net9.0\palindrome2.cs.dll
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\bin\Debug\net9.0\palindrome2.cs.pdb
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\obj\Debug\net9.0\palindrome2.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\obj\Debug\net9.0\palindrome2.cs.AssemblyInfoInputs.cache
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\obj\Debug\net9.0\palindrome2.cs.AssemblyInfo.cs
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\obj\Debug\net9.0\palindrome2.cs.csproj.CoreCompileInputs.cache
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\obj\Debug\net9.0\palindrome2.cs.dll
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\obj\Debug\net9.0\refint\palindrome2.cs.dll
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\obj\Debug\net9.0\palindrome2.cs.pdb
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\obj\Debug\net9.0\palindrome2.cs.genruntimeconfig.cache
+C:\Users\hmore\source\repos\palindrome2.cs\palindrome2.cs\obj\Debug\net9.0\ref\palindrome2.cs.dll

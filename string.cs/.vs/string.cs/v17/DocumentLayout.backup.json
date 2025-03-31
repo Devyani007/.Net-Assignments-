@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmore\\source\\repos\\string.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{178FCD52-39AF-499C-BB7D-747EDF9E647B}|string.cs\\string.cs.csproj|c:\\users\\hmore\\source\\repos\\string.cs\\string.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178FCD52-39AF-499C-BB7D-747EDF9E647B}|string.cs\\string.cs.csproj|solutionrelative:string.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178FCD52-39AF-499C-BB7D-747EDF9E647B}|string.cs\\string.cs.csproj|c:\\users\\hmore\\source\\repos\\string.cs\\string.cs\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{178FCD52-39AF-499C-BB7D-747EDF9E647B}|string.cs\\string.cs.csproj|solutionrelative:string.cs\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178FCD52-39AF-499C-BB7D-747EDF9E647B}|string.cs\\string.cs.csproj|c:\\users\\hmore\\source\\repos\\string.cs\\string.cs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{178FCD52-39AF-499C-BB7D-747EDF9E647B}|string.cs\\string.cs.csproj|solutionrelative:string.cs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\hmore\\source\\repos\\string.cs\\string.cs\\App.config",
+              "RelativeDocumentMoniker": "string.cs\\App.config",
+              "ToolTip": "C:\\Users\\hmore\\source\\repos\\string.cs\\string.cs\\App.config",
+              "RelativeToolTip": "string.cs\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-31T16:09:13.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmore\\source\\repos\\string.cs\\string.cs\\Program.cs",
+              "RelativeDocumentMoniker": "string.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\hmore\\source\\repos\\string.cs\\string.cs\\Program.cs*",
+              "RelativeToolTip": "string.cs\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:01:42.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hmore\\source\\repos\\string.cs\\string.cs\\Form1.cs",
+              "RelativeDocumentMoniker": "string.cs\\Form1.cs",
+              "ToolTip": "C:\\Users\\hmore\\source\\repos\\string.cs\\string.cs\\Form1.cs [Design]",
+              "RelativeToolTip": "string.cs\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:00:51.537Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

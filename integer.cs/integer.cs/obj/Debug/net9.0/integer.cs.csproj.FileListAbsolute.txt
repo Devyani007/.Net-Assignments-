@@ -1,0 +1,14 @@
+C:\Users\hmore\source\repos\integer.cs\integer.cs\bin\Debug\net9.0\integer.cs.exe
+C:\Users\hmore\source\repos\integer.cs\integer.cs\bin\Debug\net9.0\integer.cs.deps.json
+C:\Users\hmore\source\repos\integer.cs\integer.cs\bin\Debug\net9.0\integer.cs.runtimeconfig.json
+C:\Users\hmore\source\repos\integer.cs\integer.cs\bin\Debug\net9.0\integer.cs.dll
+C:\Users\hmore\source\repos\integer.cs\integer.cs\bin\Debug\net9.0\integer.cs.pdb
+C:\Users\hmore\source\repos\integer.cs\integer.cs\obj\Debug\net9.0\integer.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmore\source\repos\integer.cs\integer.cs\obj\Debug\net9.0\integer.cs.AssemblyInfoInputs.cache
+C:\Users\hmore\source\repos\integer.cs\integer.cs\obj\Debug\net9.0\integer.cs.AssemblyInfo.cs
+C:\Users\hmore\source\repos\integer.cs\integer.cs\obj\Debug\net9.0\integer.cs.csproj.CoreCompileInputs.cache
+C:\Users\hmore\source\repos\integer.cs\integer.cs\obj\Debug\net9.0\integer.cs.dll
+C:\Users\hmore\source\repos\integer.cs\integer.cs\obj\Debug\net9.0\refint\integer.cs.dll
+C:\Users\hmore\source\repos\integer.cs\integer.cs\obj\Debug\net9.0\integer.cs.pdb
+C:\Users\hmore\source\repos\integer.cs\integer.cs\obj\Debug\net9.0\integer.cs.genruntimeconfig.cache
+C:\Users\hmore\source\repos\integer.cs\integer.cs\obj\Debug\net9.0\ref\integer.cs.dll

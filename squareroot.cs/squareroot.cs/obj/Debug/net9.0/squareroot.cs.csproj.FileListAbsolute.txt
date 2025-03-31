@@ -1,0 +1,14 @@
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\bin\Debug\net9.0\squareroot.cs.exe
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\bin\Debug\net9.0\squareroot.cs.deps.json
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\bin\Debug\net9.0\squareroot.cs.runtimeconfig.json
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\bin\Debug\net9.0\squareroot.cs.dll
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\bin\Debug\net9.0\squareroot.cs.pdb
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\obj\Debug\net9.0\squareroot.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\obj\Debug\net9.0\squareroot.cs.AssemblyInfoInputs.cache
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\obj\Debug\net9.0\squareroot.cs.AssemblyInfo.cs
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\obj\Debug\net9.0\squareroot.cs.csproj.CoreCompileInputs.cache
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\obj\Debug\net9.0\squareroot.cs.dll
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\obj\Debug\net9.0\refint\squareroot.cs.dll
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\obj\Debug\net9.0\squareroot.cs.pdb
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\obj\Debug\net9.0\squareroot.cs.genruntimeconfig.cache
+C:\Users\hmore\source\repos\squareroot.cs\squareroot.cs\obj\Debug\net9.0\ref\squareroot.cs.dll

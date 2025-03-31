@@ -1,0 +1,4 @@
+C:\Users\hmore\source\repos\string.cs\string.cs\obj\Debug\string.cs.csproj.AssemblyReference.cache
+C:\Users\hmore\source\repos\string.cs\string.cs\obj\Debug\string.cs.Properties.Resources.resources
+C:\Users\hmore\source\repos\string.cs\string.cs\obj\Debug\string.cs.csproj.GenerateResource.cache
+C:\Users\hmore\source\repos\string.cs\string.cs\obj\Debug\string.cs.csproj.CoreCompileInputs.cache
